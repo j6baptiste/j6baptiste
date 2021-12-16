@@ -1,4 +1,4 @@
-hi, I’m Jean-Baptiste Gay.
+Hi, I’m Jean-Baptiste Gay.
 
 <!---
 ,
